@@ -1,4 +1,5 @@
-# Hi, I'm Bishnu 👋
+# Hi, I'm Bishnu 
+
 
 MSc Data Analytics student at CCT College Dublin (2026–2027). BSc Computer Science (2.1), Griffith College Dublin, 2025.
 I'm interested in data and risk analytics, and I build full-stack apps. Studying for the FRM (Financial Risk Manager).
